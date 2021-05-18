@@ -8,10 +8,10 @@ module.exports = {
     },
 
     discord: {
-        token: 'TOKEN',
-        prefix: 'PREFIX',
-        activity: 'ACTIVITY',
+        token: 'ODQyNzkzNzczMjcxNjEzNDUw.YJ6e3Q.XUtfGs_Rs9sjfnS3V_23065Rb9U',
+        prefix: '$',
+        activity: 'Songs',
     },
 
-    filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
+    filters: [],
 };
