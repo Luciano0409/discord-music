@@ -11,7 +11,7 @@
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "discord-player": "^3.3.2",
-    "discord.js": "^12.5.1",
+    "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.3.0",
     "prism-media": "^1.2.9"
   }
